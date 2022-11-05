@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Sup <img width="20" src="anime-girl.gif" width="30px">, I'm Dhendup</h1>
-<h3 align="center"><strong>I'm  Dhendup from claifornia </strong></h3>
+<h3 align="center"><strong>I'm  Dhendup </strong></h3>
 
 
 ## 🙋‍♂️ About Me

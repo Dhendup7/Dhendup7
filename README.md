@@ -8,9 +8,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Student management system]**
 
-- 🏫 I’m currently studying **+2 Science**
+- 🏫 I’m have passed out  **+2 Science**
 
 
 - 👨‍💻 All of my projects are available at **[Github ](https://github.com/Dhendup7)**
